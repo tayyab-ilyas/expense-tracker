@@ -4,17 +4,17 @@ function App(){
   const expenses = [
     {
       item: 'Grocery',
-      date: new Date(26, 1, 2019),
+      date: new Date(2018, 5, 19),
       amount: 100
     },
     {
       item: 'Car',
-      date: new Date(1, 1, 2020),
+      date: new Date(2020, 1, 26),
       amount: 2000
     },
     {
     item: 'PS5',
-    date: new Date(2, 2, 2023),
+    date: new Date(2023, 2, 20),
     amount: 1000
     }
   ];
